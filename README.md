@@ -22,3 +22,8 @@
 ```bash
 git clone https://github.com/IzzyLVA/Script-Runner.git
 cd Script-Runner
+```
+---
+
+## Windows
+- To start download the .exe and run as admin
